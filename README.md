@@ -1,1 +1,11 @@
 # Sign-language-translator
+![10](https://github.com/user-attachments/assets/94d8976a-fb37-4821-83c2-c6961838feb9)
+![9](https://github.com/user-attachments/assets/03ff2fec-799c-475f-ba81-29d5fd4e9171)
+![8](https://github.com/user-attachments/assets/4041102e-a28d-4870-806d-37c156e47aa9)
+![7](https://github.com/user-attachments/assets/86f02b3a-c178-4db3-8867-9180942c0ae9)
+![6](https://github.com/user-attachments/assets/d2200775-1195-4108-b38b-ab20bf012986)
+![5](https://github.com/user-attachments/assets/f1a92e42-169f-4094-aee1-cbb0115c800f)
+![4](https://github.com/user-attachments/assets/2c5172c5-fcca-4808-ac40-a7f932d1c547)
+![3](https://github.com/user-attachments/assets/2893aa6c-2cba-4b2b-a0cb-3eb3bbfca1ce)
+![2](https://github.com/user-attachments/assets/d29c0853-ac8c-461b-b5f9-74b694be6786)
+![1](https://github.com/user-attachments/assets/25a018c8-4138-450f-ba14-21827a370600)
